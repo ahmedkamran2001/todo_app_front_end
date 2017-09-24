@@ -1,20 +1,23 @@
 html{
     font-family: Times
-    
+     
 }
-h1{
+.header{
     font-size: 76
     
 }
-ul{
-    font-size: 46
+.mainlist{
+    font-size: 30
     
 }
-p{
-    font-size: 46
+.text{
+    font-size: 30
     
 }
-a{font-size: 46}
-.title{
-    margin: 0 auto;
-    }
+.button{
+    font-size: 30
+    
+}
+.textbox{
+    font-size: 30
+}
