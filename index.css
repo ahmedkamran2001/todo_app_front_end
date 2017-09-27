@@ -2,22 +2,55 @@ html{
     font-family: Times
      
 }
+body{
+    background-image:url("http://dpanoply.s3.amazonaws.com/blog/combining-vectors-and-textures-for-a-background-with-depth/final-full.jpg");
+    color: white
+}
 .header{
-    font-size: 76
-    
+    font-size: 76;
+      text-align: center;
+  margin-top: 20px;
+  
 }
 .mainlist{
-    font-size: 30
+    font-size: 30;
+      text-align: center;
+  margin-top: 20px;
+  list-style-type: none;
     
 }
 .text{
-    font-size: 30
+    font-size: 30;
+      text-align: center;
+  margin-top: 20px;
+  padding: 50px 100px 50px 1100px;
+ 
     
 }
-.button{
-    font-size: 30
-    
+#addtodo{
+    font-size: 30;
+      text-align: center;
+  margin-top: 20px;
+  margin-left: 600px
+
 }
+#nextpage{
+    font-size: 30;
+      text-align: center;
+  margin-top: 20px;
+  margin-right: 600px
+}
+
 .textbox{
-    font-size: 30
+    font-size: 30;
+     text-align: center;
+  margin-top: 20px;
+  
+  
+}
+
+img{
+ text-align: center;
+ margin-top: 20px;
+padding: 50px 100px 50px 700px;
 }
